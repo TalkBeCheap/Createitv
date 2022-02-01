@@ -53,8 +53,6 @@ const Createitv = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-423%20hrs%2046%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-82-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-103%20Thousand%20lines%20of%20code-blue)
@@ -84,12 +82,12 @@ const Createitv = {
 
 ```text
 Monday       23 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.75% 
-Tuesday      35 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.36% 
+Tuesday      36 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.82% 
 Wednesday    22 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.28% 
 Thursday     34 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.89% 
 Friday       22 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.28% 
 Saturday     42 commits     █████░░░░░░░░░░░░░░░░░░░░   19.63% 
-Sunday       36 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.82%
+Sunday       35 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.36%
 
 ```
 
@@ -133,7 +131,7 @@ Swift                    1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Createitv/Createitv/master/charts/bar_graph.png) 
 
 
- Last Updated on 31/01/2022 00:49:00 UTC
+ Last Updated on 01/02/2022 00:52:03 UTC
 <!--END_SECTION:waka-->
 
 
