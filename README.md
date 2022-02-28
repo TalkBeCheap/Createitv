@@ -53,9 +53,7 @@ const Createitv = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-553%20hrs%2028%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-102%20Thousand%20lines%20of%20code-blue)
 
@@ -83,13 +81,13 @@ const Createitv = {
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday       21 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.55% 
-Tuesday      37 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.82% 
-Wednesday    24 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.91% 
+Monday       22 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
+Tuesday      36 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.36% 
+Wednesday    23 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.45% 
 Thursday     35 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.91% 
 Friday       22 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
 Saturday     45 commits     █████░░░░░░░░░░░░░░░░░░░░   20.45% 
-Sunday       36 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.36%
+Sunday       37 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.82%
 
 ```
 
@@ -133,7 +131,7 @@ Julia                    1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Createitv/Createitv/master/charts/bar_graph.png) 
 
 
- Last Updated on 23/02/2022 01:02:25 UTC
+ Last Updated on 28/02/2022 00:57:54 UTC
 <!--END_SECTION:waka-->
 
 
